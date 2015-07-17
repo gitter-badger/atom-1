@@ -1,4 +1,6 @@
 ## 文件切换
+
+[![Join the chat at https://gitter.im/agileago/atom](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/agileago/atom?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 `ctrl-shift-s`  保存所有打开的文件  
 `cmd-shift-o`  打开目录  
 `cmd-\`   显示或隐藏目录树  
